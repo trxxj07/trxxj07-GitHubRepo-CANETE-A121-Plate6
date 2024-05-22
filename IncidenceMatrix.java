@@ -17,7 +17,7 @@ public class IncidenceMatrix {
         int[][] incidenceMatrix = new int[numVertices][numEdges];
 
         // Input the edges (vertex pairs) associated with the edges and the number of times each edge appears
-        System.out.println("Enter the edges (vertex pairs) associated with the edges and the number of times each edge appears:");
+        System.out.println("Enter the edges (vertex pairs) and the number of times each edge appears:");
         for (int i = 0; i < numEdges; i++) {
             int u = scanner.nextInt();
             int v = scanner.nextInt();
