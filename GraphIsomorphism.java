@@ -1,4 +1,4 @@
-// Write a Java program that checks whether two graphs are isomorphic or not, given a set of vertices.
+// 8. Write a Java program that checks whether two graphs are isomorphic or not, given a set of vertices.
 
 import java.util.*;
 
